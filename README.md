@@ -103,3 +103,4 @@ Gem: CarrierWave (Rails)<br>
 #### ***Google OAuthの使用:***
 Gem: omniauth-google-oauth2 (Rails)<br>
 ユーザー登録・ログイン時にGoogle OAuthを使用して、手間を省いた認証システムを提供する。
+
