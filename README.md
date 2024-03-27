@@ -209,3 +209,7 @@ https://www.figma.com/file/IFJvE4NJysCXdHW2bAumhK/Portfolio?type=design&node-id=
 ## **メールアドレス・パスワード変更確認項目**
 - [x] メールアドレス
 - [x] パスワード
+<br>
+
+## **ER図**
+![](https://gyazo.com/7ffcfcce4ee47a534b916c349a896eb4)
