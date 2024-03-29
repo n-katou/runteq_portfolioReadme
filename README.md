@@ -212,4 +212,8 @@ https://www.figma.com/file/IFJvE4NJysCXdHW2bAumhK/Portfolio?type=design&node-id=
 <br>
 
 ## **ER図**
-![](https://i.gyazo.com/22f29fc3218decd7f10ae47a4c65954b.png)
+<!-- 現在、gyzaoにアクセスできない環境なので、ＳＳになります。 -->
+<!-- のちほど、gyazoで上げなおしておきます。 -->
+<!-- ![](https://i.gyazo.com/22f29fc3218decd7f10ae47a4c65954b.png) -->
+![](C:\Users\tikK90316\workspace\private\runteq_portfolioReadme\ER図.png)
+
