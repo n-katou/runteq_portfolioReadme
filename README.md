@@ -212,5 +212,4 @@ https://www.figma.com/file/IFJvE4NJysCXdHW2bAumhK/Portfolio?type=design&node-id=
 <br>
 
 ## **ER図**
-![](https://i.gyazo.com/48cba1bb6edf75addfc64feaaad94ac9.png)
-
+![](https://i.gyazo.com/22270ba0fe66ed4f695a2bd86db6724f.png)
